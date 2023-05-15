@@ -6,7 +6,7 @@ Transfer learning with Bagnets model [^1], on crack classfication task implement
 
 
 
----
+
 [^1]: W. Brendel and M. Bethge, "Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet," *International Conference on Learning Representations*, 2019. [PDF](https://openreview.net/pdf?id=SkfMWhAqYQ)
 
 
