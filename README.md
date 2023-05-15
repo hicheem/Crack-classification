@@ -12,4 +12,4 @@ Transfer learning with Bagnets model [^1], on crack classfication task implement
 
 ---
 
-**© 2023 Written by Hichem FARAOUN. All rights reserved.**
+**© 2023 All rights reserved.**
